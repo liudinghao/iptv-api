@@ -1,12 +1,9 @@
 央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV-5,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5
 CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
@@ -19,19 +16,17 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://120.55.49.231:3095/rtp/233.50.201.192:5140
-CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 卫视频道,#genre#
 东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
 东方卫视,http://219.145.93.74:9999/tsfile/live/1004_1.m3u8
-江苏卫视,http://tvpull.careryun.com/tv/jsws.m3u8
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
 北京卫视,http://219.145.93.74:9999/tsfile/live/1007_1.m3u8
-广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 
@@ -40,9 +35,13 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 其它频道,#genre#
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4156&tk=f6cc1e0a0e1a
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3804&tk=2aca1ad9a849
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0790&tk=b53028476470
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8907&tk=b53028476470
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4550&tk=e503191f8e20
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8534&tk=f6cc1e0a0e1a
 
 🕘️更新时间,#genre#
-2025-01-30 06:28:07,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-01-30 18:26:56,http://z.b.bkpcp.top/m.php?id=cctv1
