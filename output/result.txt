@@ -6,7 +6,6 @@ CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
 CCTV-3,http://183.255.10.90:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT
-CCTV-4,http://tvpull.careryun.com/tv/cctv4.m3u8
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o
@@ -32,41 +31,36 @@ CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16,http://120.55.49.231:3095/rtp/233.50.201.192:5140
 CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 卫视频道,#genre#
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
-东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
-东方卫视,http://219.145.93.74:9999/tsfile/live/1004_1.m3u8
+东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://tvpull.careryun.com/tv/jsws.m3u8
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
-湖南卫视,http://219.145.93.74:9999/tsfile/live/1003_1.m3u8
+湖南卫视,http://123.154.154.150:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://58.17.48.228:808/hls/31/index.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
+北京卫视,http://123.154.154.150:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
-广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 
 港澳台,#genre#
-凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
-凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -82,7 +76,8 @@ CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8907&tk=b53028476470
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4550&tk=e503191f8e20
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+CHC动作电影,http://goo.bkpcp.top/mg/chcdz
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
 
 🕘️更新时间,#genre#
-2025-02-02 18:26:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-03 06:26:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
