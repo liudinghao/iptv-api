@@ -1,8 +1,8 @@
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
-CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-2,http://ttkx.cc:1380/公开源/mg9.php?id=cctv2
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -17,7 +17,6 @@ CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6,http://ttkx.cc:1380/公开源/mg9.php?id=cctv6
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-7,http://182.37.169.94:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://ttkx.cc:1380/公开源/mg9.php?id=cctv7
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
@@ -27,7 +26,6 @@ CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-9,http://ttkx.cc:1380/公开源/mg9.php?id=cctv9
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-10,http://182.37.169.94:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://ttkx.cc:1380/公开源/mg9.php?id=cctv10
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
@@ -47,30 +45,27 @@ CCTV-15,http://ttkx.cc:1380/公开源/mg9.php?id=cctv15
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV-16,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv16
-CCTV-16,http://222.219.183.103:8089/hls/16/index.m3u8
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17\
 
 卫视频道,#genre#
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
+东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
-东方卫视,http://222.219.183.103:8089/hls/29/index.m3u8
-东方卫视,http://116.77.32.59:8277/streams/d/dfws/playlist.m3u8
+东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
+江苏卫视,http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
-江苏卫视,http://182.37.169.94:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://222.219.183.103:8089/hls/27/index.m3u8
-江苏卫视,http://116.77.32.59:8277/streams/d/jsws/playlist.m3u8
+江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
+北京卫视,http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
-北京卫视,http://222.219.183.103:8089/hls/30/index.m3u8
-北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 
 港澳台,#genre#
@@ -84,10 +79,12 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17\
 
 其它频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9012&tk=aa0698566417
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9716&tk=aa0698566417
 CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
 
 🕘️更新时间,#genre#
-2025-02-13 18:34:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-14 06:34:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
