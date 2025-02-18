@@ -7,8 +7,7 @@ CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
-CCTV-4,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4
-CCTV-4,http://ttkx.cc:1380/公开源/mg9.php?id=cctv4
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5HD
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
@@ -39,24 +38,20 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 卫视频道,#genre#
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANGHAIHD
-东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
-东方卫视,http://live.nctv.top/IQRy0ip/bfgd.php?id=093
+东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8
-江苏卫视,http://live.nctv.top/IQRy0ip/bfgd.php?id=085
-江苏卫视,http://live.nctv.top/IQRy0ip/bestv.php?id=jsws
+江苏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6983&tk=bd38c03a3ce1
+江苏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8737&tk=bd38c03a3ce1
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUNANHD
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://php.jdshipin.com:8880/cqyx.php?id=BEIJINGHD
-北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
-北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
@@ -74,10 +69,21 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 
 其它频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4212&tk=bd38c03a3ce1
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4550&tk=e503191f8e20
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4156&tk=f6cc1e0a0e1a
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9401&tk=e640d0a1bf70
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8907&tk=b53028476470
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3804&tk=2aca1ad9a849
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0790&tk=b53028476470
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8717&tk=bd38c03a3ce1
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1268&tk=b53028476470
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8534&tk=f6cc1e0a0e1a
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1497&tk=b53028476470
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6191&tk=e503191f8e20
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7119&tk=e640d0a1bf70
 
 🕘️更新时间,#genre#
-2025-02-18 18:32:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-19 06:32:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
