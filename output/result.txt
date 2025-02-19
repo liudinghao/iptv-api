@@ -8,7 +8,6 @@ CCTV-3,http://php.jdshipin.com:8880/cqyx.php?id=CCTV3HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
-CCTV-4,http://over.qiyuevod.com/tmsctv/bstv.php?id=cctv4k
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5HD
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
@@ -39,20 +38,17 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 卫视频道,#genre#
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANGHAIHD
-东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
-东方卫视,http://218.58.136.82:352/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
-江苏卫视,http://218.58.136.82:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUNANHD
-湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
+湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://php.jdshipin.com:8880/cqyx.php?id=BEIJINGHD
-北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
-北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
@@ -76,4 +72,4 @@ CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 
 🕘️更新时间,#genre#
-2025-02-19 18:31:47,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-02-20 06:32:48,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
