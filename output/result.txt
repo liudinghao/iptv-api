@@ -59,15 +59,14 @@ CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 
 其它频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
-CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 上海新闻综合,http://api2.52tb.xyz/info?id=371&token=20230218qkyjia
 
 🕘️更新时间,#genre#
-2025-03-15 06:33:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-03-15 18:30:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
