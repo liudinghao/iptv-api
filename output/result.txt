@@ -67,4 +67,4 @@ CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-04-10 18:34:41,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-11 06:35:28,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
