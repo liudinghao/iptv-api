@@ -15,7 +15,6 @@ CCTV-2,http://8.138.7.223/tv/mgitv.php?id=10
 CCTV-2,http://8.138.7.223/tv/mgitv.php?id=11
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 CCTV-3,http://8.138.7.223/tv/dl/douyincdn.php?id=3
-CCTV-3,http://8.138.7.223/tv/dl/careryun.php?id=3
 CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
@@ -34,24 +33,17 @@ CCTV-6,http://8.138.7.223/tv/mgitv.php?id=32
 CCTV-6,http://8.138.7.223/tv/mgitv.php?id=33
 CCTV-6,http://8.138.7.223/tv/mgitv.php?id=34
 CCTV-6,http://8.138.7.223/tv/mgitv.php?id=35
-CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-7,http://8.138.7.223/tv/cctv7.m3u8
-CCTV-7,http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8
-CCTV-7,http://8.138.7.223/tv/dl/douyincdn.php?id=7
-CCTV-7,http://8.138.7.223/tv/dl/careryun.php?id=10
-CCTV-7,http://8.138.7.223/tv/mgitv.php?id=36
-CCTV-7,http://8.138.7.223/tv/mgitv.php?id=37
+CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-8,http://8.138.7.223/tv/dl/douyincdn.php?id=8
 CCTV-8,http://8.138.7.223/tv/dl/careryun.php?id=11
 CCTV-8,http://8.138.7.223/tv/mgitv.php?id=41
-CCTV-8,http://8.138.7.223/tv/mgitv.php?id=42
+CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
 CCTV-10,http://8.138.7.223/tv/dl/douyincdn.php?id=10
 CCTV-10,http://8.138.7.223/tv/dl/careryun.php?id=13
 CCTV-10,http://8.138.7.223/tv/mgitv.php?id=51
-CCTV-10,http://8.138.7.223/tv/mgitv.php?id=52
 CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11
 CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
@@ -74,20 +66,36 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
-北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
+北京卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=17
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
-浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
+浙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=19
 
 港澳台,#genre#
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 其它频道,#genre#
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a03072&tk=822270345d4c
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3027&tk=23a9aca1f79f
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bf7e77&tk=822270345d4c
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0321&tk=a0c4f6cfaba3
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0790&tk=b53028476470
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2765&tk=e640d0a1bf70
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4156&tk=f6cc1e0a0e1a
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3804&tk=2aca1ad9a849
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4654&tk=23a9aca1f79f
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7d2a91&tk=822270345d4c
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=13a3a6&tk=822270345d4c
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d76d00&tk=822270345d4c
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6009&tk=a0c4f6cfaba3
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1497&tk=b53028476470
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8534&tk=f6cc1e0a0e1a
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6061&tk=e640d0a1bf70
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-05-02 06:39:20,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
+2025-05-02 18:34:31,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
