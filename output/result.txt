@@ -1,30 +1,16 @@
 央视频道,#genre#
 CCTV-1,http://api.mytv666.top/api/migu.php?id=CCTV1综合&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-1,http://8.138.7.223/tv/ptbtv.php?id=27
-CCTV-1,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
-CCTV-1,http://8.138.7.223/tv/dl/douyincdn.php?id=1
-CCTV-1,http://8.138.7.223/tv/dl/careryun.php?id=1
-CCTV-1,http://8.138.7.223/tv/mgitv.php?id=1
-CCTV-1,http://8.138.7.223/tv/mgitv.php?id=2
+CCTV-1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-2,http://api.mytv666.top/api/migu.php?id=CCTV2财经&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-2,http://8.138.7.223/tv/dl/douyincdn.php?id=2
-CCTV-2,http://8.138.7.223/tv/dl/careryun.php?id=2
-CCTV-2,http://8.138.7.223/tv/mgitv.php?id=8
-CCTV-2,http://8.138.7.223/tv/mgitv.php?id=9
-CCTV-2,http://8.138.7.223/tv/mgitv.php?id=10
-CCTV-2,http://8.138.7.223/tv/mgitv.php?id=11
+CCTV-2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-5,http://api.mytv666.top/api/migu.php?id=CCTV5体育&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
-CCTV-5,http://8.138.7.223/tv/dl/careryun.php?id=7
+CCTV-5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV-6,http://api.mytv666.top/api/migu.php?id=CCTV6电影&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-6,http://8.138.7.223/tv/dl/douyincdn.php?id=6
-CCTV-6,http://8.138.7.223/tv/dl/careryun.php?id=9
-CCTV-6,http://8.138.7.223/tv/mgitv.php?id=30
-CCTV-6,http://8.138.7.223/tv/mgitv.php?id=31
+CCTV-6,http://tvbox6.icu/tv/migu.php?id=cctv6
 CCTV-7,http://api.mytv666.top/api/migu.php?id=CCTV7国防军事&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-10,http://api.mytv666.top/api/migu.php?id=CCTV10科教&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
@@ -36,12 +22,15 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,http://api.mytv666.top/api/migu.php?id=CCTV14少儿&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,http://api.mytv666.top/api/migu.php?id=CCTV15音乐&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
-CCTV-15,http://8.138.7.223/tv/dl/douyincdn.php?id=15
-CCTV-15,http://8.138.7.223/tv/dl/careryun.php?id=18
-CCTV-15,http://8.138.7.223/tv/mgitv.php?id=74
-CCTV-15,http://8.138.7.223/tv/mgitv.php?id=75
-CCTV-16,http://8.138.7.223/tv/mgitv.php?id=78
-CCTV-16,http://111.43.126.240:9003/hls/29/index.m3u8
+CCTV-15,http://tvbox6.icu/tv/migu.php?id=cctv15
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1a7fd2&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6d76be&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5b561a&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cf0c2f&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=33f898&tk=6949f8ce7202
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4332&tk=23a9aca1f79f
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4d7bfb&tk=822270345d4c
 CCTV-17,http://api.mytv666.top/api/migu.php?id=CCTV17农业农村&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 
@@ -49,8 +38,7 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-北京卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=17
-北京卫视,http://8.138.7.223/tv/dl/careryun.php?id=24
+北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 
@@ -60,11 +48,13 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 
 其它频道,#genre#
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3027&tk=23a9aca1f79f
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a03072&tk=822270345d4c
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
-CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b4ff17&tk=6949f8ce7202
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4654&tk=23a9aca1f79f
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-05-06 18:36:12,http://api.mytv666.top/api/migu.php?id=CCTV1综合&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
+2025-05-07 06:35:43,http://api.mytv666.top/api/migu.php?id=CCTV1综合&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
