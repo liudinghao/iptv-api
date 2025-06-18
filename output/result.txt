@@ -1,10 +1,10 @@
 央视频道,#genre#
 CCTV-1,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8
-CCTV-2,http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
+CCTV-2,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
-CCTV-5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
-CCTV-6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+CCTV-5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
+CCTV-6,http://116.9.204.242:9901/tsfile/live/0006_1.m3u8
 CCTV-7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
@@ -31,10 +31,9 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 其它频道,#genre#
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-06-18 18:21:50,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8
+2025-06-19 06:22:25,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8
