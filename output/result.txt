@@ -2,27 +2,27 @@
 CCTV-1,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
 CCTV-2,http://58.19.43.46:9901/tsfile/live/1021_1.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
-CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
-CCTV-5,http://58.17.48.228:808/hls/5/index.m3u8
+CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
+CCTV-5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
 CCTV-6,http://183.237.95.108:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://58.17.48.228:808/hls/6/index.m3u8
+CCTV-6,http://58.19.43.46:9901/tsfile/live/1025_1.m3u8
 CCTV-7,http://58.19.43.46:9901/tsfile/live/1026_1.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
-CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11
-CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
+CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-13,http://183.131.246.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://183.237.95.108:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://58.17.48.228:808/hls/14/index.m3u8
+CCTV-14,http://58.19.43.46:9901/tsfile/live/1033_1.m3u8
 CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 
 卫视频道,#genre#
-东方卫视,http://111.61.236.247:9081/hls/40/index.m3u8
-江苏卫视,http://111.61.236.247:9081/hls/26/index.m3u8
-湖南卫视,http://111.61.236.247:9081/hls/24/index.m3u8
+东方卫视,http://58.19.43.46:9901/tsfile/live/1035_1.m3u8
+江苏卫视,http://58.19.43.46:9901/tsfile/live/1038_1.m3u8
+湖南卫视,http://58.19.43.46:9901/tsfile/live/1036_1.m3u8
 北京卫视,http://111.61.236.247:9081/hls/28/index.m3u8
 广东卫视,http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://120.198.95.220:9901/tsfile/live/1006_1.m3u8?key=txiptv
@@ -39,4 +39,4 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-07-25 06:24:28,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
+2025-07-25 18:23:38,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
