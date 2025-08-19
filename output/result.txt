@@ -25,7 +25,7 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 湖南卫视,http://58.19.43.46:9901/tsfile/live/1036_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 广东卫视,http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://120.198.95.220:9901/tsfile/live/1006_1.m3u8?key=txiptv
+广东卫视,http://58.19.43.46:9901/tsfile/live/1039_1.m3u8
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 
 港澳台,#genre#
@@ -39,4 +39,4 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 上海新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 
 🕘️更新时间,#genre#
-2025-08-19 06:19:44,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
+2025-08-19 18:21:06,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
