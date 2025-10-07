@@ -1,8 +1,10 @@
 央视频道,#genre#
 CCTV-1,https://cc06.tv12.xyz/1.m3u8
-CCTV-1,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
+CCTV-1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://cc06.tv12.xyz/2.m3u8
-CCTV-2,http://58.19.43.46:9901/tsfile/live/1021_1.m3u8
+CCTV-2,http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-2,http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,https://cc06.tv12.xyz/3.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 CCTV-4,https://cc06.tv12.xyz/4.m3u8
@@ -10,13 +12,12 @@ CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&Ch
 CCTV-5,https://cc06.tv12.xyz/5.m3u8
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5,http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
-CCTV-5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
 CCTV-6,https://cc06.tv12.xyz/7.m3u8
 CCTV-6,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
 CCTV-6,http://183.237.95.108:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://58.19.43.46:9901/tsfile/live/1025_1.m3u8
 CCTV-7,https://cc06.tv12.xyz/8.m3u8
-CCTV-7,http://58.19.43.46:9901/tsfile/live/1026_1.m3u8
+CCTV-7,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-7,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,https://cc06.tv12.xyz/9.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-9,https://cc06.tv12.xyz/10.m3u8
@@ -32,25 +33,28 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://cc06.tv12.xyz/15.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://cc06.tv12.xyz/16.m3u8
-CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
+CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://60.16.0.216:5757/hls/17/index.m3u8
-CCTV-16,http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
-CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8
+CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,https://cc06.tv12.xyz/17.m3u8
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 
 卫视频道,#genre#
 东方卫视,https://cc06.tv12.xyz/37.m3u8
+东方卫视,http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 江苏卫视,https://cc06.tv12.xyz/61.m3u8
-江苏卫视,http://58.19.43.46:9901/tsfile/live/1038_1.m3u8
+江苏卫视,http://124.128.73.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://124.128.73.58:9901/tsfile/live/0127_1.m3u8?key=txiptv
 湖南卫视,https://cc06.tv12.xyz/57.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,https://cc06.tv12.xyz/27.m3u8
-北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
+北京卫视,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8
 广东卫视,https://cc06.tv12.xyz/43.m3u8
+广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://58.19.43.46:9901/tsfile/live/1039_1.m3u8
 浙江卫视,https://cc06.tv12.xyz/117.m3u8
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 
@@ -62,6 +66,7 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 
 🕘️更新时间,#genre#
-2025-10-07 18:26:56,https://cc06.tv12.xyz/1.m3u8
+2025-10-08 06:27:42,https://cc06.tv12.xyz/1.m3u8
