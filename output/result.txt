@@ -15,6 +15,7 @@ CCTV-13,https://cc06.tv12.xyz/14.m3u8
 CCTV-14,https://cc06.tv12.xyz/15.m3u8
 CCTV-15,https://cc06.tv12.xyz/16.m3u8
 CCTV-16,http://60.16.0.216:5757/hls/17/index.m3u8
+CCTV-16,http://gmxw.7766.org:808/hls/169/index.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 
@@ -27,7 +28,7 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 
 港澳台,#genre#
-凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 其它频道,#genre#
@@ -38,4 +39,4 @@ CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 
 🕘️更新时间,#genre#
-2025-10-13 06:26:36,https://cc06.tv12.xyz/1.m3u8
+2025-10-13 18:30:28,https://cc06.tv12.xyz/1.m3u8
