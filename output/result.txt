@@ -10,18 +10,13 @@ CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
 CCTV-5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
-CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8
-CCTV-6,http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6540&tk=a0c4f6cfaba3
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6726&tk=a0c4f6cfaba3
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5610&tk=a0c4f6cfaba3
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4400&tk=a0c4f6cfaba3
-CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1184&tk=a0c4f6cfaba3
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://1.31.14.70:54321/hls/9/index.m3u8
 CCTV-7,http://220.170.241.204:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://220.170.241.204:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
-CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
+CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
 CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
@@ -35,13 +30,12 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 
 卫视频道,#genre#
 东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
-东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8
 东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
-江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
-江苏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2625&tk=a0c4f6cfaba3
-江苏卫视,http://218.13.170.98:9901/tsfile/live/1003_1.m3u8
+江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+北京卫视,http://114.252.126.226:8899/hls/16/index.m3u8
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 广东卫视,http://220.170.241.204:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -59,4 +53,4 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 
 🕘️更新时间,#genre#
-2025-11-18 06:29:14,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
+2025-11-18 18:30:28,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
