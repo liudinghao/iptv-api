@@ -1,34 +1,34 @@
 央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-6,http://60.16.0.216:5757/hls/7/index.m3u8
+CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
+CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
+CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV-6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8
 CCTV-6,http://27.41.245.32:801/hls/6/index.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV-12,http://69.30.246.194/live/cctv12.m3u8
+CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
+CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
+CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
+CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
+CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8
-CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8
+CCTV-15,http://69.30.246.194/live/cctv15.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
-CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
+CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 
 卫视频道,#genre#
-东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
-北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 
 港澳台,#genre#
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -40,4 +40,4 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 
 🕘️更新时间,#genre#
-2026-01-22 18:35:35,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-23 06:35:29,http://23.237.228.134/live5/CCTV1.m3u8
